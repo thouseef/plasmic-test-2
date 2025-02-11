@@ -35,7 +35,7 @@
           "projectId": "psCXYX3gjakvq2zZg1EteZ",
           "renderModuleFilePath": "plasmic/professional_services/PlasmicHomepage.tsx",
           "importSpec": {
-            "modulePath": "../pages/test.tsx"
+            "modulePath": "../pages/index.tsx"
           },
           "cssFilePath": "plasmic/professional_services/PlasmicHomepage.module.css",
           "scheme": "blackbox",
