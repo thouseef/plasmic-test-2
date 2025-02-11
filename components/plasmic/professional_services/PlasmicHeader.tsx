@@ -161,7 +161,7 @@ function PlasmicHeader__RenderFunc(props: {
                 sty.headerLeft
               )}
               component={Link}
-              href={`/`}
+              href={`/test`}
               platform={"nextjs"}
             >
               <PlasmicImg__
